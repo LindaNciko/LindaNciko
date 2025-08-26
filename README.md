@@ -72,10 +72,11 @@ She enjoys building models, creating dashboards, and turning complex data into *
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="40" height="40"/>
   </a>
-  <!-- New: Excel -->
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
-  </a>
+ <!-- New: Excel -->
+ <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/>
+ </a>
+
   <!-- New: Jupyter -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
