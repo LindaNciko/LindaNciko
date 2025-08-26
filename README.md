@@ -1,5 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png)](https://reshape.io)
-
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR...)](https://reshape.io)
 
 <h1 align="center">Hi 👋, I'm Claudine Linda Wa Nciko</h1>
 <h3 align="center">A passionate about Data and Business analytics / data science  and sustainability</h3>
