@@ -48,8 +48,4 @@ She enjoys building models, creating dashboards, and turning complex data into *
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lindanciko&" alt="lindanciko" /></p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindanciko&label=Profile%20views&color=0e75b6&style=flat" alt="lindanciko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindanciko" alt="lindanciko" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nciko_linda" target="blank"><img src="https://img.shields.io/twitter/follow/nciko_linda?logo=twitter&style=for-the-badge" alt="nciko_linda" /></a> </p>
