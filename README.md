@@ -1,4 +1,9 @@
-<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="MasterHead" width="600"/>
+<p align="center">
+  <a href="https://reshape.io">
+    <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="MasterHead" width="400"/>
+  </a>
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Claudine Linda Wa Nciko</h1>
