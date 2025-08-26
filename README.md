@@ -16,7 +16,7 @@ She enjoys building models, creating dashboards, and turning complex data into *
 - 🌱 I’m currently learning **SQL**
   
 - 👨‍💻 All of my projects are available at [Linda_Nciko_portfolio](https://datascienceportfol.io/lindawanciko20)
-- 
+  
 - 📝 I regularly write articles on [Medium](https://medium.com/@claudine.lindawanciko)
   
 - 💬 Ask me about **Tech | PBI | Excel | Sustainability**
