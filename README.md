@@ -46,6 +46,3 @@ She enjoys building models, creating dashboards, and turning complex data into *
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindanciko&show_icons=true&locale=en" alt="lindanciko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lindanciko&" alt="lindanciko" /></p> 
-
-
