@@ -11,25 +11,21 @@ She enjoys building models, creating dashboards, and turning complex data into *
 ✨ Linda is currently **open to opportunities** where she can apply her skills to create impact through data.
 
 
-- 🔭 I’m currently working on **BI Project**
-
+- 🔭 I’m currently working on **BI Project** and 👯 on [Automated Speech Recognition (ASR) for Kenyan languages](https://www.linkedin.com/posts/senseshub_aiforgood-speechrecognition-inclusion-activity-7346484680411549696-VnLI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_es9ABvE6CywcbeC5g_gQ78Es2uy74HZA)
+  
 - 🌱 I’m currently learning **SQL**
-
-- 👯 I’m looking to collaborate on [Automated Speech Recognition (ASR) for Kenyan languages](https://www.linkedin.com/posts/senseshub_aiforgood-speechrecognition-inclusion-activity-7346484680411549696-VnLI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_es9ABvE6CywcbeC5g_gQ78Es2uy74HZA)
-
-- 👨‍💻 All of my projects are available at [https://datascienceportfol.io/lindawanciko20](https://datascienceportfol.io/lindawanciko20)
-
-- 📝 I regularly write articles on [https://github.com/LindaNciko/Storytelling-African-Markets](https://github.com/LindaNciko/Storytelling-African-Markets)
-
+  
+- 👨‍💻 All of my projects are available at [Linda_Nciko_portfolio](https://datascienceportfol.io/lindawanciko20)
+- 
+- 📝 I regularly write articles on [Medium](https://medium.com/@claudine.lindawanciko)
+  
 - 💬 Ask me about **Tech | PBI | Excel | Sustainability**
 
 - 📫 How to reach me **lindawanciko20@gmail.com**
 
-- 📄 Know about my experiences [https://www.datascienceportfol.io/lindawanciko20](https://www.datascienceportfol.io/lindawanciko20)
+- 📄 Know about my experiences [Linda_Nciko_portfolio](https://www.datascienceportfol.io/lindawanciko20)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### My Social media
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
