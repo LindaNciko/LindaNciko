@@ -9,21 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/nciko_linda" target="blank"><img src="https://img.shields.io/twitter/follow/nciko_linda?logo=twitter&style=for-the-badge" alt="nciko_linda" /></a> </p>
 
-[Claudine Linda Nciko](https://www.linkedin.com/in/claudine-linda-nciko-b28b6a1a4/)  
-I’m a Data Scientist passionate about using data to solve **business** and **social challenges**. With 3 years of experience and a **Master’s in Data Science & Analytics** from Strathmore University, I specialize in:
-
-- 📊 Machine Learning & Predictive Modeling  
-- 📈 Data-Driven Decision-Making  
-- 📌 Turning complex data into practical, actionable insights  
-
-### 🔧 Technical Toolbox
-- **Programming & Data**: Python, SQL  
-- **Visualization & BI**: Power BI  
-- **Big Data**: Spark, Hadoop  
-
-I enjoy building models, creating dashboards, and using analytics to support **growth and innovation**.
-
-✨ Currently open to opportunities where I can apply my skills to create meaningful impact through data.
+[Claudine Linda Nciko](https://www.linkedin.com/in/claudine-linda-nciko-b28b6a1a4/) a **Data Scientist** passionate about using data to solve business and social challenges. She holds a **Master’s in Data Science & Analytics** from Strathmore University and has 3 years of experience in applying data science to real-world problems.  
+Linda specializes in **machine learning, predictive modeling, and data-driven decision-making**. Her technical toolbox includes **Python, SQL, Power BI, Spark, and Hadoop**.  
+She enjoys building models, creating dashboards, and turning complex data into **practical insights that drive growth and innovation**.  
+✨ Linda is currently **open to opportunities** where she can apply her skills to create impact through data.
 
 
 - 🔭 I’m currently working on **BI Project**
