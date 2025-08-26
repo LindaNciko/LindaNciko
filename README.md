@@ -3,13 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Claudine Linda Wa Nciko</h1>
-<h3 align="center">A passionate about Data and Business analytics / data science  and sustainability</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindanciko&label=Profile%20views&color=0e75b6&style=flat" alt="lindanciko" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindanciko" alt="lindanciko" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nciko_linda" target="blank"><img src="https://img.shields.io/twitter/follow/nciko_linda?logo=twitter&style=for-the-badge" alt="nciko_linda" /></a> </p>
+<h3 align="center">Passionate about Data Science, Business Analytics, and AI for Climate & Development Impact</h3>
 
 [Claudine Linda Nciko](https://www.linkedin.com/in/claudine-linda-nciko-b28b6a1a4/) a **Data Scientist** passionate about using data to solve business and social challenges. She holds a **Master’s in Data Science & Analytics** from Strathmore University and has 3 years of experience in applying data science to real-world problems.  
 Linda specializes in **machine learning, predictive modeling, and data-driven decision-making**. Her technical toolbox includes **Python, SQL, Power BI, Spark, and Hadoop**.  
