@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://reshape.io">
-    <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="MasterHead" width="400"/>
-  </a>
-</p>
-
-
+<a href="https://reshape.io">
+  <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="MasterHead" width="200" align="left"/>
+</a>
 
 <h1 align="center">Hi 👋, I'm Claudine Linda Wa Nciko</h1>
 <h3 align="center">A passionate about Data and Business analytics / data science  and sustainability</h3>
